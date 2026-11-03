@@ -1,3 +1,5 @@
+> **Archived repository.** This fork is retained for provenance only. The canonical, maintained version is https://github.com/ChulLab/Motif_Analysis_Auto.
+
 # High-Throughput in vitro Cleavage Assay for Cas13 Motif Discovery
 
 ## Overview
